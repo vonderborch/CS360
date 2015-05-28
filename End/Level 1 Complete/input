@@ -1,0 +1,32 @@
+diskimage
+togpause
+cd /
+pwd
+ls
+mkdir /a
+ls
+mkdir /a/b
+ls /a
+cd /a/b
+pwd
+cd ../../
+pwd
+creat f1
+ls
+creat /a/f2
+ls /a
+link f1 f2
+ls
+unlink f1
+ls
+symlink f2 f3
+ls
+rmdir /a/b/c
+rmdir /a
+rmdir /a/b
+rmdir /a
+chmod /f1 0766
+ls
+touch /a/f2
+ls /a/f2
+exit

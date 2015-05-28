@@ -1,0 +1,27 @@
+﻿Build started 2/4/2014 11:07:45 PM.
+     1>Project "C:\Users\Ricky\Dropbox\School\Spring 2014\cpts 360\Lab2\Lab2\Lab2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>c:\users\ricky\dropbox\school\spring 2014\cpts 360\lab2\lab2\main.c(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\ricky\dropbox\school\spring 2014\cpts 360\lab2\lab2\main.c(71): warning C4013: 'getebp' undefined; assuming extern returning int
+     1>c:\users\ricky\dropbox\school\spring 2014\cpts 360\lab2\lab2\main.c(71): warning C4047: 'initializing' : 'int *' differs in levels of indirection from 'int'
+     1>c:\users\ricky\dropbox\school\spring 2014\cpts 360\lab2\lab2\main.c(84): warning C4047: 'function' : 'char *' differs in levels of indirection from 'int'
+     1>c:\users\ricky\dropbox\school\spring 2014\cpts 360\lab2\lab2\main.c(84): warning C4024: 'prints' : different types for formal and actual parameter 1
+     1>c:\users\ricky\dropbox\school\spring 2014\cpts 360\lab2\lab2\main.c(223): warning C4047: 'initializing' : 'int *' differs in levels of indirection from 'int'
+     1>c:\users\ricky\dropbox\school\spring 2014\cpts 360\lab2\lab2\main.c(235): warning C4047: 'initializing' : 'int *' differs in levels of indirection from 'int'
+     1>c:\users\ricky\dropbox\school\spring 2014\cpts 360\lab2\lab2\main.c(239): warning C4047: '=' : 'int' differs in levels of indirection from 'int *'
+     1>c:\users\ricky\dropbox\school\spring 2014\cpts 360\lab2\lab2\main.c(240): warning C4047: '=' : 'int' differs in levels of indirection from 'int *'
+     1>c:\users\ricky\dropbox\school\spring 2014\cpts 360\lab2\lab2\main.c(201): warning C4716: 'A' : must return a value
+     1>c:\users\ricky\dropbox\school\spring 2014\cpts 360\lab2\lab2\main.c(208): warning C4716: 'B' : must return a value
+     1>c:\users\ricky\dropbox\school\spring 2014\cpts 360\lab2\lab2\main.c(219): warning C4716: 'C' : must return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ricky\Dropbox\School\Spring 2014\cpts 360\Lab2\Debug\Lab2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ricky\Dropbox\School\Spring 2014\cpts 360\Lab2\Debug\Lab2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ricky\Dropbox\School\Spring 2014\cpts 360\Lab2\Debug\Lab2.lib" /MACHINE:X86 Debug\main.obj
+     1>main.obj : error LNK2019: unresolved external symbol _getebp referenced in function _longjump
+     1>C:\Users\Ricky\Dropbox\School\Spring 2014\cpts 360\Lab2\Debug\Lab2.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "C:\Users\Ricky\Dropbox\School\Spring 2014\cpts 360\Lab2\Lab2\Lab2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.32

@@ -1,0 +1,127 @@
+enter main
+&argc=bf806090
+argv=bf806124
+env=bf80612c
+&a=bf806074
+%b=bf806078
+&c=bf80607c
+enter A
+&d: bf806044
+&e: bf806048
+&f: bf80604c
+enter B
+&g: bf806014
+&h: bf806018
+&i: bf80601c
+enter C
+&u: bf805fe0
+&v: bf805fe4
+&w: bf805fe8
+Part 1:
+&ebp: bf805ff8
+End Part 1
+Entry - Address: bf805fe8, Contents: b
+Entry - Address: bf805fec, Contents: 1
+Entry - Address: bf805ff0, Contents: 0
+Entry - Address: bf805ff4, Contents: 0
+Entry - Address: bf805ff8, Contents: bf806028
+Entry - Address: bf805ffc, Contents: 804856a
+Entry - Address: bf806000, Contents: 6
+Entry - Address: bf806004, Contents: 7
+Entry - Address: bf806008, Contents: bf806018
+Entry - Address: bf80600c, Contents: bf80601c
+Entry - Address: bf806010, Contents: b77bea20
+Entry - Address: bf806014, Contents: 6
+Entry - Address: bf806018, Contents: 7
+Entry - Address: bf80601c, Contents: 8
+Entry - Address: bf806020, Contents: 0
+Entry - Address: bf806024, Contents: 0
+Entry - Address: bf806028, Contents: bf806058
+Entry - Address: bf80602c, Contents: 8048502
+Entry - Address: bf806030, Contents: 3
+Entry - Address: bf806034, Contents: 4
+Entry - Address: bf806038, Contents: bf806048
+Entry - Address: bf80603c, Contents: bf80604c
+Entry - Address: bf806040, Contents: b77bea20
+Entry - Address: bf806044, Contents: 3
+Entry - Address: bf806048, Contents: 4
+Entry - Address: bf80604c, Contents: 5
+Entry - Address: bf806050, Contents: bf806090
+Entry - Address: bf806054, Contents: b77f6918
+Entry - Address: bf806058, Contents: bf806088
+Entry - Address: bf80605c, Contents: 804849a
+Entry - Address: bf806060, Contents: 1
+Entry - Address: bf806064, Contents: 2
+Entry - Address: bf806068, Contents: bf806078
+Entry - Address: bf80606c, Contents: bf80607c
+Entry - Address: bf806070, Contents: b77e4280
+Entry - Address: bf806074, Contents: 1
+Entry - Address: bf806078, Contents: 2
+Entry - Address: bf80607c, Contents: 3
+Entry - Address: bf806080, Contents: 8048670
+Entry - Address: bf806084, Contents: 0
+Entry - Address: bf806088, Contents: 0
+Entry - Address: bf80608c, Contents: b76314d3
+Entry - Address: bf806090, Contents: 1
+Entry - Address: bf806094, Contents: bf806124
+Entry - Address: bf806098, Contents: bf80612c
+Entry - Address: bf80609c, Contents: b77d3858
+Entry - Address: bf8060a0, Contents: 0
+Entry - Address: bf8060a4, Contents: bf80611c
+Entry - Address: bf8060a8, Contents: bf80612c
+Entry - Address: bf8060ac, Contents: 0
+Entry - Address: bf8060b0, Contents: 804822c
+Entry - Address: bf8060b4, Contents: b77bdff4
+Entry - Address: bf8060b8, Contents: 0
+Entry - Address: bf8060bc, Contents: 0
+Entry - Address: bf8060c0, Contents: 0
+Entry - Address: bf8060c4, Contents: 7ca95aa8
+Entry - Address: bf8060c8, Contents: ba415eb9
+Entry - Address: bf8060cc, Contents: 0
+Entry - Address: bf8060d0, Contents: 0
+Entry - Address: bf8060d4, Contents: 0
+Entry - Address: bf8060d8, Contents: 1
+Entry - Address: bf8060dc, Contents: 8048360
+Entry - Address: bf8060e0, Contents: 0
+Entry - Address: bf8060e4, Contents: b77e96b0
+Entry - Address: bf8060e8, Contents: b76313e9
+Entry - Address: bf8060ec, Contents: b77f5ff4
+Entry - Address: bf8060f0, Contents: 1
+Entry - Address: bf8060f4, Contents: 8048360
+Entry - Address: bf8060f8, Contents: 0
+Entry - Address: bf8060fc, Contents: 8048381
+Entry - Address: bf806100, Contents: 8048414
+Entry - Address: bf806104, Contents: 1
+Entry - Address: bf806108, Contents: bf806124
+Entry - Address: bf80610c, Contents: 8048670
+Entry - Address: bf806110, Contents: 80486e0
+Entry - Address: bf806114, Contents: b77e4280
+Entry - Address: bf806118, Contents: bf80611c
+Entry - Address: bf80611c, Contents: b77f6918
+Entry - Address: bf806120, Contents: 1
+Entry - Address: bf806124, Contents: bf80759d
+Entry - Address: bf806128, Contents: 0
+Entry - Address: bf80612c, Contents: bf8075a5
+Entry - Address: bf806130, Contents: bf8075b8
+Entry - Address: bf806134, Contents: bf8075e3
+Entry - Address: bf806138, Contents: bf8075ee
+Entry - Address: bf80613c, Contents: bf8075fe
+Entry - Address: bf806140, Contents: bf80764e
+Entry - Address: bf806144, Contents: bf807660
+Entry - Address: bf806148, Contents: bf80768a
+Entry - Address: bf80614c, Contents: bf807695
+Entry - Address: bf806150, Contents: bf807bb6
+Entry - Address: bf806154, Contents: bf807bf0
+Entry - Address: bf806158, Contents: bf807c24
+Entry - Address: bf80615c, Contents: bf807c4a
+Entry - Address: bf806160, Contents: bf807caa
+Entry - Address: bf806164, Contents: bf807cdd
+Entry - Address: bf806168, Contents: bf807d0a
+Entry - Address: bf80616c, Contents: bf807d70
+Entry - Address: bf806170, Contents: bf807d87
+Entry - Address: bf806174, Contents: bf807d97
+End Part 2
+exit C
+exit B
+exit A
+exit main

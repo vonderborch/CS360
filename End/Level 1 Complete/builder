@@ -1,0 +1,8 @@
+#!/bin/bash
+
+PATH=$PATH:./
+
+rm project.out
+rm diskimage
+cp diskimageoriginal diskimage
+cc -m32 -w main.c functions.c util.c -o project.out
