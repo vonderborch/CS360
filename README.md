@@ -15,4 +15,4 @@ Labs:
 - Lab 5: Prints disk information on a ext2 file system.
 - Lab 5 Prelab: Prints disk information on a ext2 file system (less than the actual lab above).
 - Lab 6: A preliminary setup of the end project implementing some basic commands.
-- End: Implementation of a shell working on an ext2 file system. I only had time to implement Level 1, so it is missing some more advanced commands like cat, cp, etc., but what is there works nearly perfectly.
+- End: Implementation of a shell working on an ext2 file system. I only had time to implement Level 1, so it is missing some more advanced commands like cat, cp, etc., but what is there worked nearly perfectly.
